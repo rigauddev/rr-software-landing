@@ -128,7 +128,8 @@ export const ContactForm = styled.form`
 `;
 
 export const Logo = styled.img`
-  height: 50px; /* Ajuste o tamanho da imagem conforme necessário */
+  height: 80%;
+  width: 80%;
   margin-right: 20px;
 `;
 
